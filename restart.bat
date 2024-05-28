@@ -4,8 +4,8 @@
 rem Start xtrgpuminer.exe
 start "" "%USERPROFILE%\Desktop\xtrgpuminer.exe"
 
-rem Wait for 1 hour (3600 seconds) - 10 for now
-timeout /t 10 /nobreak
+rem Wait for 1 hour (3600 seconds)
+timeout /t 3600 /nobreak
 
 rem Kill xtrgpuminer.exe process
 taskkill /f /im xtrgpuminer.exe

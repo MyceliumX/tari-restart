@@ -12,3 +12,5 @@
 3. Move the slider down to `Never Notify`
 4. Click OK and then restart the computer.
 
+### Install Microsoft Visual C++ Redistributable
+1. Download and install the file from [This Link](https://learn.microsoft.com/en-us/cpp/windows/latest-supported-vc-redist?view=msvc-170)
